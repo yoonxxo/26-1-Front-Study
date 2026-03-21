@@ -3,7 +3,7 @@
 
 1. MarkUp Language 
 
-문서를 구조적으로 만든다. 즉, 텍스트 외에 위계나 텍스트 정보를 준다.  tag를 이용
+문서를 구조적으로 만든다. 즉, 텍스트 외에 위계나 텍스트 정보를 준다. tag를 이용한다.
 
 <tagname> content</tagname>
 
