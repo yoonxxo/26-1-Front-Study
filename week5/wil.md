@@ -34,3 +34,6 @@ https://jsonplaceholder.typicode.com/
 리팩토링은 결과의 변경 없이 코드의 구조를 재조정하는 작업을 말한다. 코드를 최대한 간결하게 바꾸는 작업이다.
 
 리액트 extensions - rfce, rafce, usss, uef
+
+## Effect 더 공부해보기
+https://ko.react.dev/learn/synchronizing-with-effects#step-2-specify-the-effect-dependencies
